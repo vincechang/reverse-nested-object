@@ -1,0 +1,19 @@
+{
+  "name": "ping-an-reality-inc",
+  "version": "1.0.0",
+  "description": "Reverse the nested object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Vincent Chang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
+    "lodash": "^4.17.20"
+  }
+}
